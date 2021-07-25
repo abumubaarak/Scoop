@@ -36,6 +36,6 @@ Scoop is based on MVVM architecture
 ![](architecture.png)
 
 ### Learning Refrence on Store4
-[Store4](https://github.com/dropbox/Store/)
-[Article](https://medium.com/swlh/introduction-to-android-data-storage-with-dropbox-store-4-b2dc7e3753e1)
+* [Store4](https://github.com/dropbox/Store/)
+* [Article](https://medium.com/swlh/introduction-to-android-data-storage-with-dropbox-store-4-b2dc7e3753e1)
 
