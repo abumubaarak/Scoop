@@ -27,7 +27,7 @@
 * [FinestWebView](https://github.com/TheFinestArtist/FinestWebView-Android)
 
 ## Download
-Go to the Releases to download the latest APK.
+Download the latest APK [HERE](https://github.com/Abdul-Quadri-Ismail/Scoop/releases/download/v1.0/scoop.apk).
 
 ## Design Inspiration
 https://dribbble.com/shots/14237842-Article-App-Customize-Your-Reading-Experience/attachments/5882288?mode=media
