@@ -7,7 +7,6 @@
 - Explore news in diffrent category
 - Intuitive UI with material design
 
-
 ## Tech-stack
 * [100% Kotlin](https://kotlinlang.org/)  
 * [Corotinues](https://kotlinlang.org/docs/reference/coroutines-overview.html) + [Flow](https://kotlinlang.org/)
@@ -26,6 +25,9 @@
 * [blurkit](https://github.com/CameraKit/blurkit-android): Android blurring library
 * [Timber](https://github.com/JakeWharton/timber)
 * [FinestWebView](https://github.com/TheFinestArtist/FinestWebView-Android)
+
+## Download
+Go to the Releases to download the latest APK.
 
 ## Design Inspiration
 https://dribbble.com/shots/14237842-Article-App-Customize-Your-Reading-Experience/attachments/5882288?mode=media
