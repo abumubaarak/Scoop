@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scoop</string>
+    <string name="newsimage">newsimage</string>
+    <string name="today">Today\'s Read</string>
+    <string name="health">Health</string>
+    <string name="technology">Technology</string>
+    <string name="science">Science</string>
+    <string name="android">Android</string>
+    <string name="design">Design</string>
+    <string name="business">Business</string>
+
+
+</resources>

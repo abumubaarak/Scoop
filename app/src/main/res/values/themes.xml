@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Theme.Scoop" parent="Base.Theme.Scoop"/>
+
+
+    <style name="Base.Theme.Scoop" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/scoop_500</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/scoop_pink_500</item>
+        <item name="colorSecondaryVariant">@color/scoop_500</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <!--Material type attributes-->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.Scoop.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.Scoop.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.Scoop.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.Scoop.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.Scoop.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.Scoop.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.Scoop.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.Scoop.Subtitle2</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.Scoop.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.Scoop.Body2</item>
+        <item name="textAppearanceButton">@style/TextAppearance.Scoop.Button</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.Scoop.Caption</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.Scoop.Overline</item>
+
+
+        <!--Shape-->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Scoop.MediumComponent</item>
+    </style>
+
+
+</resources>

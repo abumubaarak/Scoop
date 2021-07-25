@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Brand Color-->
+    <color name="scoop_400">#293363</color>
+    <color name="scoop_500">#293363</color>
+    <color name="scoop_600">#293363</color>
+
+
+    <color name="scoop_pink_400">#ed7392 </color>
+    <color name="scoop_pink_500">#E75A7C </color>
+    <color name="scoop_pink_600">#e34966 </color>
+
+    <color name="scoop_gray">#eeeeee</color>
+
+
+ </resources>
