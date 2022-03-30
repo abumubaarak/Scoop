@@ -9,7 +9,7 @@
 
 ## Tech-stack
 * [100% Kotlin](https://kotlinlang.org/)  
-* [Corotinues](https://kotlinlang.org/docs/reference/coroutines-overview.html) + [Flow](https://kotlinlang.org/)
+* [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) + [Flow](https://kotlinlang.org/)
 * [Jetpack](https://developer.android.com/jetpack)
   * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
   * [Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
